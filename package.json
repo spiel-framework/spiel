@@ -1,0 +1,24 @@
+{
+  "name": "spiel",
+  "version": "0.0.3",
+  "description": "Project generator with the modules of spieljs framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiel-framework/spiel.git"
+  },
+  "keywords": [
+    "generator",
+    "projects",
+    "spieljs"
+  ],
+  "author": "Francisco Jesus Navarro Cortes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spiel-framework/spiel/issues"
+  },
+  "homepage": "https://github.com/spiel-framework/spiel#readme"
+}
